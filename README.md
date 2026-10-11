@@ -1,6 +1,8 @@
 # walk-yourself-like-a-dog
 A dog-themed fitness tracker app made with Fluter
 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2b739658-1327-4b8e-af8d-e6407bd98678" />
+
 ## Running the POC
 
 ```
